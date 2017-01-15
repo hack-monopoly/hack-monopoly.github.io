@@ -10,3 +10,16 @@
   margin: 15px 20px;
   cursor: pointer;
 }
+
+#space{
+height: 300px;
+}
+
+.footer {
+  position:fixed;
+   left:0px;
+   bottom:0px;
+   height:160px;
+   width:100%;
+   background:#999;
+}
