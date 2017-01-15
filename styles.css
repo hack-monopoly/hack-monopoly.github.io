@@ -1,3 +1,9 @@
+#purple {
+    background-color: purple;
+    height: 200px;
+    width: 200px;
+}
+
 .pretty-button {
   background-color: #4CAF50;
   border: none;
